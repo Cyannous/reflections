@@ -33,6 +33,12 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	Having diagrams, especially with the "parent" arrows, helps me
+	understand which commits are accessible and how each branch is
+	defined. It's rather difficult to remember which commits spawned
+	offshoots without branch diagrams, even more so with a lot of 
+	branches.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
