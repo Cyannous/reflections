@@ -25,6 +25,12 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	Branches would be helpful to keep track of discrete versions of the
+	same code, such as different language versions, experimental and 
+	stable versions. Having separate branches would make it easier to
+	find commits for a particular version, rather than try to list all
+	of the commit ids somewhere else that are all, for example, "experimental."
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
