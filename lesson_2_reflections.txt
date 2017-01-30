@@ -50,3 +50,10 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+	Automatic merging is certainly a lot faster than manually merging
+	everything, but there is always a chance that it may not merge code
+    into a functional form. Manually merging, on the other hand, will 
+    always result in functional code(assuming you don't screw it up 
+    because of human error), but with a file that's thousands of lines
+    long, manual merging would take far too long in most cases.
