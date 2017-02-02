@@ -23,7 +23,11 @@ use one instead of another?
     a repository that can happen locally or from a remote (like on
     Github) to a local computer. A branch is a label for a 
     commit(or multiple) within a repository, can be local or in a 
-    remote.
+    remote. A fork would be more useful for a repository that you
+    want to make changes to, but don't have permission to change the
+    original. Cloning would allow you to work on a repository offline
+    (yours or someone else's). And branching is a good way to keep
+    your commits organized.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
