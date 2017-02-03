@@ -32,7 +32,11 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Having a local copy of the last known state of the remote makes it
+    easy to tell how many changes you've made locally that you haven't
+    yet pushed. If you're collaborating with someone else, it makes it
+    easy to see the most recent version of a project while working
+    offline, even if you weren't the last one to make changes.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
