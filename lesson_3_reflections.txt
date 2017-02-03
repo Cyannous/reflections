@@ -41,7 +41,18 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Collaborating without Git or Github would require sending versions
+    to one another manually or setting up a remote repository on your
+    own server, which would probably be more difficult. It would also
+    be difficult to tell what changes were made between versions 
+    without a commit history. It would, however, be easier to make
+    saves quickly because you wouldn't have to input a bunch of
+    commands through a command line every time you want to make a
+    change. A GUI full of your files would probably be easier to 
+    read than a commit history too. Trying to merge together 
+    changes you made and changes someone else made would be a 
+    nightmare though, since everything would have to be merged 
+    manually.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
