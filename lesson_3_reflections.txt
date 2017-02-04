@@ -57,4 +57,14 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    A separate branch would probably be useful for testing experimental
+    code so that the master branch isn't broken. This would allow
+    collaborators to continue working on the master branch or their
+    own experimental branch without being confused by each others' 
+    additions. This also allows for more review of each person's changes
+    before they become integrated into the main branch, which will make
+    the experimental features better. However, editing the master 
+    branch directly would be a lot faster than having to merge every
+    time the new changes would want to be added in. There would also be
+    a lowered risk of accidentally merging the wrong branches, or 
+    merging in the wrong direction.
